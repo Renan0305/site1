@@ -13,8 +13,8 @@ body {
  }
  section {
 	background: rgb(0, 247, 255);
-	padding-bottom: 40px;
-	padding-top: 40px;
+	padding-bottom: 30px;
+	padding-top: 30px;
 	display: flexbox;
 	justify-content: left;
 }
