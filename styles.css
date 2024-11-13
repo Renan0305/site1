@@ -9,6 +9,16 @@ body {
      border-bottom: solid 2px rgb(51, 255, 0);
      padding: 20px;
      font-size: 32px;
-     color: rgb(72, 255, 0);
+     color: rgb(38, 0, 255);
  }
-     
+ section {
+	background: rgb(0, 255, 42);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
